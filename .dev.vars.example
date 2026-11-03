@@ -1,0 +1,5 @@
+# Copy to .dev.vars for local `npm run pages:dev`. In production set these in
+# Cloudflare Pages > Settings > Environment variables (use "Encrypt" for the key).
+RESEND_API_KEY=re_xxxxxxxxxxxx
+QUOTE_TO_EMAIL=sales@yourdomain.com
+QUOTE_FROM_EMAIL=Mangisha Website <quotes@yourdomain.com>
